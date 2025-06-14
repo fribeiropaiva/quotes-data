@@ -1,0 +1,62 @@
+{
+  "buddhist": [
+    {
+      "id": 1,
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "dayOfYear": 1
+    },
+    {
+      "id": 2,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "dayOfYear": 2
+    },
+    {
+      "id": 3,
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "dayOfYear": 3
+    }
+  ],
+  "motivational": [
+    {
+      "id": 1,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "dayOfYear": 1
+    },
+    {
+      "id": 2,
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "dayOfYear": 2
+    },
+    {
+      "id": 3,
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "dayOfYear": 3
+    }
+  ],
+  "bible": [
+    {
+      "id": 1,
+      "text": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, to give you hope and a future.",
+      "author": "Jeremiah 29:11",
+      "dayOfYear": 1
+    },
+    {
+      "id": 2,
+      "text": "Trust in the Lord with all your heart and lean not on your own understanding.",
+      "author": "Proverbs 3:5",
+      "dayOfYear": 2
+    },
+    {
+      "id": 3,
+      "text": "I can do all things through Christ who strengthens me.",
+      "author": "Philippians 4:13",
+      "dayOfYear": 3
+    }
+  ]
+}
