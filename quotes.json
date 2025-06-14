@@ -17,6 +17,2532 @@
       "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
       "author": "Buddha",
       "dayOfYear": 3
+    },
+    {
+      "id": 4,
+      "text": "Do not believe anything, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense.",
+      "author": "Buddha",
+      "dayOfYear": 4
+    },
+    {
+      "id": 5,
+      "text": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+      "author": "Buddha",
+      "dayOfYear": 5
+    },
+    {
+      "id": 6,
+      "text": "To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him.",
+      "author": "Buddha",
+      "dayOfYear": 6
+    },
+    {
+      "id": 7,
+      "text": "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
+      "author": "Buddha",
+      "dayOfYear": 7
+    },
+    {
+      "id": 8,
+      "text": "What we think, we become.",
+      "author": "Buddha",
+      "dayOfYear": 8
+    },
+    {
+      "id": 9,
+      "text": "Understanding is the heartwood of the tree of life, and without it, all the leaves and branches are withered.",
+      "author": "Buddha",
+      "dayOfYear": 9
+    },
+    {
+      "id": 10,
+      "text": "The way is not in the sky. The way is in the heart.",
+      "author": "Buddha",
+      "dayOfYear": 10
+    },
+    {
+      "id": 11,
+      "text": "Teach this triple truth to all: A generous heart, kind speech, and a life of service and compassion are the things which renew humanity.",
+      "author": "Buddha",
+      "dayOfYear": 11
+    },
+    {
+      "id": 12,
+      "text": "The root of suffering is attachment.",
+      "author": "Buddha",
+      "dayOfYear": 12
+    },
+    {
+      "id": 13,
+      "text": "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+      "author": "Buddha",
+      "dayOfYear": 13
+    },
+    {
+      "id": 14,
+      "text": "Pain is inevitable. Suffering is optional.",
+      "author": "Buddha",
+      "dayOfYear": 14
+    },
+    {
+      "id": 15,
+      "text": "Nothing is permanent. Everything changes.",
+      "author": "Buddha",
+      "dayOfYear": 15
+    },
+    {
+      "id": 16,
+      "text": "Even death is not to be feared by one who has lived wisely.",
+      "author": "Buddha",
+      "dayOfYear": 16
+    },
+    {
+      "id": 17,
+      "text": "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+      "author": "Buddha",
+      "dayOfYear": 17
+    },
+    {
+      "id": 18,
+      "text": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
+      "author": "Buddha",
+      "dayOfYear": 18
+    },
+    {
+      "id": 19,
+      "text": "Holding onto anger is like drinking poison and expecting the other person to die.",
+      "author": "Buddha",
+      "dayOfYear": 19
+    },
+    {
+      "id": 20,
+      "text": "The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.",
+      "author": "Buddha",
+      "dayOfYear": 20
+    },
+    {
+      "id": 21,
+      "text": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+      "author": "Buddha",
+      "dayOfYear": 21
+    },
+    {
+      "id": 22,
+      "text": "Hatred does not cease by hatred, but only by love; this is the eternal rule.",
+      "author": "Buddha",
+      "dayOfYear": 22
+    },
+    {
+      "id": 23,
+      "text": "In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.",
+      "author": "Buddha",
+      "dayOfYear": 23
+    },
+    {
+      "id": 24,
+      "text": "A generous heart, kind speech, and a life of service and compassion are the things which renew humanity.",
+      "author": "Buddha",
+      "dayOfYear": 24
+    },
+    {
+      "id": 25,
+      "text": "Kindness is the language which the deaf can hear and the blind can see.",
+      "author": "Buddha",
+      "dayOfYear": 25
+    },
+    {
+      "id": 26,
+      "text": "May all beings be happy.",
+      "author": "Buddha",
+      "dayOfYear": 26
+    },
+    {
+      "id": 27,
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "dayOfYear": 27
+    },
+    {
+      "id": 28,
+      "text": "If you light a lamp for someone else, it will also brighten your own path.",
+      "author": "Buddha",
+      "dayOfYear": 28
+    },
+    {
+      "id": 29,
+      "text": "Radiate boundless love towards the entire world—above, below, and across—unhindered, without ill will, without enmity.",
+      "author": "Buddha",
+      "dayOfYear": 29
+    },
+    {
+      "id": 30,
+      "text": "Just as a candle cannot burn without fire, men cannot exist without a spiritual life.",
+      "author": "Buddha",
+      "dayOfYear": 30
+    },
+    {
+      "id": 31,
+      "text": "An ungrateful mind is a monster, which devours that by which it is nourished.",
+      "author": "Buddha",
+      "dayOfYear": 31
+    },
+    {
+      "id": 32,
+      "text": "To conquer oneself is a greater task than conquering others.",
+      "author": "Buddha",
+      "dayOfYear": 32
+    },
+    {
+      "id": 33,
+      "text": "The only real failure in life is not to be true to the best one knows.",
+      "author": "Buddha",
+      "dayOfYear": 33
+    },
+    {
+      "id": 34,
+      "text": "Every morning we are born again. What we do today is what matters most.",
+      "author": "Buddha",
+      "dayOfYear": 34
+    },
+    {
+      "id": 35,
+      "text": "Give up the past, give up the future, give up the present. Cross over to the farther shore of existence. With mind wholly liberated, you will not again return to birth and decay.",
+      "author": "Buddha",
+      "dayOfYear": 35
+    },
+    {
+      "id": 36,
+      "text": "Your life is your message to the world. Make sure it's inspiring.",
+      "author": "Buddha",
+      "dayOfYear": 36
+    },
+    {
+      "id": 37,
+      "text": "Silence the angry man with love. Silence the ill-willed man with kindness. Silence the miser with generosity. Silence the liar with truth.",
+      "author": "Buddha",
+      "dayOfYear": 37
+    },
+    {
+      "id": 38,
+      "text": "The wise man in the storm prays to God, not for safety from danger, but for deliverance from fear. It is the storm within which endangers us, not the storm without.",
+      "author": "Buddha",
+      "dayOfYear": 38
+    },
+    {
+      "id": 39,
+      "text": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+      "author": "Buddha",
+      "dayOfYear": 39
+    },
+    {
+      "id": 40,
+      "text": "Live in joy, in love, even among those who hate. Live in joy, in health, even among those who are afflicted. Live in joy, in peace, even among those who are troubled. Look within, awaken to your true nature.",
+      "author": "Buddha",
+      "dayOfYear": 40
+    },
+    {
+      "id": 41,
+      "text": "A dog is not considered a good dog because he is a good barker. A man is not considered a good man because he is a good talker.",
+      "author": "Buddha",
+      "dayOfYear": 41
+    },
+    {
+      "id": 42,
+      "text": "The trouble is, you think you have time.",
+      "author": "Buddha",
+      "dayOfYear": 42
+    },
+    {
+      "id": 43,
+      "text": "If you truly loved yourself, you would never harm another.",
+      "author": "Buddha",
+      "dayOfYear": 43
+    },
+    {
+      "id": 44,
+      "text": "The past is already gone, the future is not yet here. There is only one moment for you to live, and that is the present moment.",
+      "author": "Buddha",
+      "dayOfYear": 44
+    },
+    {
+      "id": 45,
+      "text": "However many holy words you read, however many you speak, what good will they do you if you do not act on them?",
+      "author": "Buddha",
+      "dayOfYear": 45
+    },
+    {
+      "id": 46,
+      "text": "Conquer the angry one by love. Conquer the evil one by good. Conquer the stingy one by giving. Conquer the liar by truth.",
+      "author": "Buddha",
+      "dayOfYear": 46
+    },
+    {
+      "id": 47,
+      "text": "Work out your own salvation. Do not depend on others.",
+      "author": "Buddha",
+      "dayOfYear": 47
+    },
+    {
+      "id": 48,
+      "text": "Do not be led by others, make your own decision.",
+      "author": "Buddha",
+      "dayOfYear": 48
+    },
+    {
+      "id": 49,
+      "text": "Purity or impurity depends on oneself; no one can purify another.",
+      "author": "Buddha",
+      "dayOfYear": 49
+    },
+    {
+      "id": 50,
+      "text": "The greatest gift is the gift of peace.",
+      "author": "Buddha",
+      "dayOfYear": 50
+    },
+    {
+      "id": 51,
+      "text": "Chaos is inherent in all compounded things. Strive on with diligence.",
+      "author": "Buddha",
+      "dayOfYear": 51
+    },
+    {
+      "id": 52,
+      "text": "Better than a thousand hollow words, is one word that brings peace.",
+      "author": "Buddha",
+      "dayOfYear": 52
+    },
+    {
+      "id": 53,
+      "text": "The end of suffering is the awakening to the truth.",
+      "author": "Buddha",
+      "dayOfYear": 53
+    },
+    {
+      "id": 54,
+      "text": "Just as a candle cannot burn without fire, men cannot exist without a spiritual life.",
+      "author": "Buddha",
+      "dayOfYear": 54
+    },
+    {
+      "id": 55,
+      "text": "However many holy words you read, however many you speak, what good will they do you if you do not act on them?",
+      "author": "Buddha",
+      "dayOfYear": 55
+    },
+    {
+      "id": 56,
+      "text": "To be idle is a short road to death and to be diligent is a long road to life.",
+      "author": "Buddha",
+      "dayOfYear": 56
+    },
+    {
+      "id": 57,
+      "text": "Conquer the angry one by love. Conquer the evil one by good. Conquer the stingy one by giving. Conquer the liar by truth.",
+      "author": "Buddha",
+      "dayOfYear": 57
+    },
+    {
+      "id": 58,
+      "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection.",
+      "author": "Buddha",
+      "dayOfYear": 58
+    },
+    {
+      "id": 59,
+      "text": "Avoid evil, do good, purify the mind. This is the teaching of the Buddhas.",
+      "author": "Buddha",
+      "dayOfYear": 59
+    },
+    {
+      "id": 60,
+      "text": "The foot feels the foot when it feels the ground.",
+      "author": "Buddha",
+      "dayOfYear": 60
+    },
+    {
+      "id": 61,
+      "text": "If we could see the miracle of a single flower clearly, our whole life would change.",
+      "author": "Buddha",
+      "dayOfYear": 61
+    },
+    {
+      "id": 62,
+      "text": "The only way to happiness is to cease worrying about things which are beyond the power of our will.",
+      "author": "Buddha",
+      "dayOfYear": 62
+    },
+    {
+      "id": 63,
+      "text": "Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.",
+      "author": "Buddha",
+      "dayOfYear": 63
+    },
+    {
+      "id": 64,
+      "text": "Reshape yourself through the power of your will; otherwise, your will be an enemy.",
+      "author": "Buddha",
+      "dayOfYear": 64
+    },
+    {
+      "id": 65,
+      "text": "To be kind to all, to love all, to serve all, to be happy, to be contented, to be peaceful.",
+      "author": "Buddha",
+      "dayOfYear": 65
+    },
+    {
+      "id": 66,
+      "text": "Let us rise up and be thankful, for if we didn’t learn a lot today, at least we learned a little, and if we didn’t learn a little, at least we didn’t get sick, and if we got sick, at least we didn’t die; so, let us all be thankful.",
+      "author": "Buddha",
+      "dayOfYear": 66
+    },
+    {
+      "id": 67,
+      "text": "Better than living a hundred years without seeing the highest truth, is one day of life seeing the highest truth.",
+      "author": "Buddha",
+      "dayOfYear": 67
+    },
+    {
+      "id": 68,
+      "text": "Purity or impurity depends on oneself; no one can purify another.",
+      "author": "Buddha",
+      "dayOfYear": 68
+    },
+    {
+      "id": 69,
+      "text": "The greatest prayer is patience.",
+      "author": "Buddha",
+      "dayOfYear": 69
+    },
+    {
+      "id": 70,
+      "text": "Meditate. Live purely. Be quiet. Do your work with mastery. Like the moon, come out from behind the clouds! Shine.",
+      "author": "Buddha",
+      "dayOfYear": 70
+    },
+    {
+      "id": 71,
+      "text": "Abandon attachment to any and all things.",
+      "author": "Buddha",
+      "dayOfYear": 71
+    },
+    {
+      "id": 72,
+      "text": "One day's practice is better than a thousand years of thinking.",
+      "author": "Buddha",
+      "dayOfYear": 72
+    },
+    {
+      "id": 73,
+      "text": "There is no path to happiness. Happiness is the path.",
+      "author": "Buddha",
+      "dayOfYear": 73
+    },
+    {
+      "id": 74,
+      "text": "The wise man is one who knows what he does not know.",
+      "author": "Buddha",
+      "dayOfYear": 74
+    },
+    {
+      "id": 75,
+      "text": "The tongue is a sharp knife that kills without drawing blood.",
+      "author": "Buddha",
+      "dayOfYear": 75
+    },
+    {
+      "id": 76,
+      "text": "Empty your mind, be formless, shapeless – like water.",
+      "author": "Buddha",
+      "dayOfYear": 76
+    },
+    {
+      "id": 77,
+      "text": "Have compassion for all beings, rich and poor alike; each has their suffering. Some suffer too much, others too little.",
+      "author": "Buddha",
+      "dayOfYear": 77
+    },
+    {
+      "id": 78,
+      "text": "If you want to know your past, look into your present condition. If you want to know your future, look into your present actions.",
+      "author": "Buddha",
+      "dayOfYear": 78
+    },
+    {
+      "id": 79,
+      "text": "The greatest wealth is to live content with little.",
+      "author": "Buddha",
+      "dayOfYear": 79
+    },
+    {
+      "id": 80,
+      "text": "Drop by drop is the water pot filled. Likewise, the wise man, gathering it little by little, fills himself with good.",
+      "author": "Buddha",
+      "dayOfYear": 80
+    },
+    {
+      "id": 81,
+      "text": "To abstain from all evil, to cultivate good, and to purify one's mind – this is the teaching of the Buddhas.",
+      "author": "Buddha",
+      "dayOfYear": 81
+    },
+    {
+      "id": 82,
+      "text": "The whole secret of existence is to have no fear. Never fear what will become of you, depend on no one. Only the moment you reject all help are you freed.",
+      "author": "Buddha",
+      "dayOfYear": 82
+    },
+    {
+      "id": 83,
+      "text": "All experiences are preceded by mind, having mind as their master, created by mind.",
+      "author": "Buddha",
+      "dayOfYear": 83
+    },
+    {
+      "id": 84,
+      "text": "There is no fire like passion, no shark like hatred, no snare like folly, no torrent like greed.",
+      "author": "Buddha",
+      "dayOfYear": 84
+    },
+    {
+      "id": 85,
+      "text": "If you do not change direction, you may end up where you are heading.",
+      "author": "Buddha",
+      "dayOfYear": 85
+    },
+    {
+      "id": 86,
+      "text": "Everything is impermanent.",
+      "author": "Buddha",
+      "dayOfYear": 86
+    },
+    {
+      "id": 87,
+      "text": "Speak or act with an impure mind and trouble will follow you as the wheel follows the ox that draws the cart.",
+      "author": "Buddha",
+      "dayOfYear": 87
+    },
+    {
+      "id": 88,
+      "text": "The greatest delusion is fear.",
+      "author": "Buddha",
+      "dayOfYear": 88
+    },
+    {
+      "id": 89,
+      "text": "Looking at a tree is looking at meditation.",
+      "author": "Buddha",
+      "dayOfYear": 89
+    },
+    {
+      "id": 90,
+      "text": "Know from experience that no pleasure is a good thing if it brings a later pain.",
+      "author": "Buddha",
+      "dayOfYear": 90
+    },
+    {
+      "id": 91,
+      "text": "Your most precious possession is not your financial assets. Your most precious possession is your time. You may or may not get more money, but you will never get more time.",
+      "author": "Buddha",
+      "dayOfYear": 91
+    },
+    {
+      "id": 92,
+      "text": "To be attached to nothing, to want nothing, to love nothing.",
+      "author": "Buddha",
+      "dayOfYear": 92
+    },
+    {
+      "id": 93,
+      "text": "What is essential is to practice, not to know.",
+      "author": "Buddha",
+      "dayOfYear": 93
+    },
+    {
+      "id": 94,
+      "text": "Those who are free of resentful thoughts surely find peace.",
+      "author": "Buddha",
+      "dayOfYear": 94
+    },
+    {
+      "id": 95,
+      "text": "Happiness does not depend on what you have or who you are. It solely relies on how you think.",
+      "author": "Buddha",
+      "dayOfYear": 95
+    },
+    {
+      "id": 96,
+      "text": "Like a lotus flower, we too have the ability to rise from the mud, bloom out of the darkness and radiate into the world.",
+      "author": "Buddha",
+      "dayOfYear": 96
+    },
+    {
+      "id": 97,
+      "text": "If you want to keep your memories, you have to keep your mind.",
+      "author": "Buddha",
+      "dayOfYear": 97
+    },
+    {
+      "id": 98,
+      "text": "He who loves 50 people has 50 woes; he who loves no one has no woes.",
+      "author": "Buddha",
+      "dayOfYear": 98
+    },
+    {
+      "id": 99,
+      "text": "The gift of truth excels all other gifts.",
+      "author": "Buddha",
+      "dayOfYear": 99
+    },
+    {
+      "id": 100,
+      "text": "The mind is hard to check, swift, it flies wherever it wishes. To tame it is good. A tamed mind brings happiness.",
+      "author": "Buddha",
+      "dayOfYear": 100
+    },
+    {
+      "id": 101,
+      "text": "Whatever words we utter should be chosen with care for people will hear them and be influenced by them for good or ill.",
+      "author": "Buddha",
+      "dayOfYear": 101
+    },
+    {
+      "id": 102,
+      "text": "The greatest blessing is contentment.",
+      "author": "Buddha",
+      "dayOfYear": 102
+    },
+    {
+      "id": 103,
+      "text": "As a bee gathers nectar without harming the flower, so should a sage move through life.",
+      "author": "Buddha",
+      "dayOfYear": 103
+    },
+    {
+      "id": 104,
+      "text": "Your own self is your master; who else could be? With self-control, you gain a master hard to find.",
+      "author": "Buddha",
+      "dayOfYear": 104
+    },
+    {
+      "id": 105,
+      "text": "Let go of the past, let go of the future, let go of the present, and cross over to the other shore.",
+      "author": "Buddha",
+      "dayOfYear": 105
+    },
+    {
+      "id": 106,
+      "text": "Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense.",
+      "author": "Buddha",
+      "dayOfYear": 106
+    },
+    {
+      "id": 107,
+      "text": "He who acts under the impulse of his desires is carried along by the stream.",
+      "author": "Buddha",
+      "dayOfYear": 107
+    },
+    {
+      "id": 108,
+      "text": "Like a deep lake, clear and still, so a wise person becomes peaceful upon hearing the teachings.",
+      "author": "Buddha",
+      "dayOfYear": 108
+    },
+    {
+      "id": 109,
+      "text": "The way is not in the sky. The way is in the heart.",
+      "author": "Buddha",
+      "dayOfYear": 109
+    },
+    {
+      "id": 110,
+      "text": "Speak only words that are kind, peaceful, and truthful.",
+      "author": "Buddha",
+      "dayOfYear": 110
+    },
+    {
+      "id": 111,
+      "text": "Better than a thousand hollow words is one word that brings peace.",
+      "author": "Buddha",
+      "dayOfYear": 111
+    },
+    {
+      "id": 112,
+      "text": "Do not pursue the past. Do not lose yourself in the future. The past no longer is. The future has not yet come. Looking deeply at life as it is in the very here and now, the practitioner dwells in stability and freedom.",
+      "author": "Buddha",
+      "dayOfYear": 112
+    },
+    {
+      "id": 113,
+      "text": "If you want to understand your past, look at your present conditions. If you want to understand your future, look at your present actions.",
+      "author": "Buddha",
+      "dayOfYear": 113
+    },
+    {
+      "id": 114,
+      "text": "The greatest prayer is patience.",
+      "author": "Buddha",
+      "dayOfYear": 114
+    },
+    {
+      "id": 115,
+      "text": "Radiate boundless love towards the entire world—above, below, and across—unhindered, without ill will, without enmity.",
+      "author": "Buddha",
+      "dayOfYear": 115
+    },
+    {
+      "id": 116,
+      "text": "The journey of a thousand miles begins with a single step.",
+      "author": "Buddha",
+      "dayOfYear": 116
+    },
+    {
+      "id": 117,
+      "text": "Every morning we are born again. What we do today is what matters most.",
+      "author": "Buddha",
+      "dayOfYear": 117
+    },
+    {
+      "id": 118,
+      "text": "He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.",
+      "author": "Buddha",
+      "dayOfYear": 118
+    },
+    {
+      "id": 119,
+      "text": "The truth is not a theory, but a liberation.",
+      "author": "Buddha",
+      "dayOfYear": 119
+    },
+    {
+      "id": 120,
+      "text": "To understand everything is to forgive everything.",
+      "author": "Buddha",
+      "dayOfYear": 120
+    },
+    {
+      "id": 121,
+      "text": "Just as a candle cannot burn without fire, men cannot exist without a spiritual life.",
+      "author": "Buddha",
+      "dayOfYear": 121
+    },
+    {
+      "id": 122,
+      "text": "The only real failure in life is not to be true to the best one knows.",
+      "author": "Buddha",
+      "dayOfYear": 122
+    },
+    {
+      "id": 123,
+      "text": "Know from experience that no pleasure is a good thing if it brings a later pain.",
+      "author": "Buddha",
+      "dayOfYear": 123
+    },
+    {
+      "id": 124,
+      "text": "All living beings are subject to decay. Achieve your own salvation with diligence.",
+      "author": "Buddha",
+      "dayOfYear": 124
+    },
+    {
+      "id": 125,
+      "text": "The path is not to be found in the sky. The path is in the heart.",
+      "author": "Buddha",
+      "dayOfYear": 125
+    },
+    {
+      "id": 126,
+      "text": "Holding onto anger is like drinking poison and expecting the other person to die.",
+      "author": "Buddha",
+      "dayOfYear": 126
+    },
+    {
+      "id": 127,
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "dayOfYear": 127
+    },
+    {
+      "id": 128,
+      "text": "To be kind to all, to love all, to serve all, to be happy, to be contented, to be peaceful.",
+      "author": "Buddha",
+      "dayOfYear": 128
+    },
+    {
+      "id": 129,
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "dayOfYear": 129
+    },
+    {
+      "id": 130,
+      "text": "It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.",
+      "author": "Buddha",
+      "dayOfYear": 130
+    },
+    {
+      "id": 131,
+      "text": "Better than worshipping gods is obedience to the laws of righteousness.",
+      "author": "Buddha",
+      "dayOfYear": 131
+    },
+    {
+      "id": 132,
+      "text": "An insincere and evil friend is more to be feared than a wild beast; a wild beast may wound your body, but an evil friend will wound your mind.",
+      "author": "Buddha",
+      "dayOfYear": 132
+    },
+    {
+      "id": 133,
+      "text": "Just as the river flows into the sea, so all good actions lead to Nirvana.",
+      "author": "Buddha",
+      "dayOfYear": 133
+    },
+    {
+      "id": 134,
+      "text": "Do not be led by others, make your own decision.",
+      "author": "Buddha",
+      "dayOfYear": 134
+    },
+    {
+      "id": 135,
+      "text": "Those who cling to perceptions and views wander long in the world.",
+      "author": "Buddha",
+      "dayOfYear": 135
+    },
+    {
+      "id": 136,
+      "text": "One moment can change a day, one day can change a life, one life can change the world.",
+      "author": "Buddha",
+      "dayOfYear": 136
+    },
+    {
+      "id": 137,
+      "text": "The whole secret of existence is to have no fear.",
+      "author": "Buddha",
+      "dayOfYear": 137
+    },
+    {
+      "id": 138,
+      "text": "The greatest evil is a lack of love and compassion.",
+      "author": "Buddha",
+      "dayOfYear": 138
+    },
+    {
+      "id": 139,
+      "text": "The wise ones who are intent on meditation, who delight in the peace of renunciation, such mindful ones, even the gods admire.",
+      "author": "Buddha",
+      "dayOfYear": 139
+    },
+    {
+      "id": 140,
+      "text": "Better than living a hundred years, not seeing the highest truth, is one day of life seeing the highest truth.",
+      "author": "Buddha",
+      "dayOfYear": 140
+    },
+    {
+      "id": 141,
+      "text": "Empty your mind, be formless, shapeless – like water.",
+      "author": "Buddha",
+      "dayOfYear": 141
+    },
+    {
+      "id": 142,
+      "text": "Live purely. Be quiet. Do your work with mastery. Like the moon, come out from behind the clouds! Shine.",
+      "author": "Buddha",
+      "dayOfYear": 142
+    },
+    {
+      "id": 143,
+      "text": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+      "author": "Buddha",
+      "dayOfYear": 143
+    },
+    {
+      "id": 144,
+      "text": "The gift of truth excels all other gifts.",
+      "author": "Buddha",
+      "dayOfYear": 144
+    },
+    {
+      "id": 145,
+      "text": "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
+      "author": "Buddha",
+      "dayOfYear": 145
+    },
+    {
+      "id": 146,
+      "text": "The root of suffering is attachment.",
+      "author": "Buddha",
+      "dayOfYear": 146
+    },
+    {
+      "id": 147,
+      "text": "Even death is not to be feared by one who has lived wisely.",
+      "author": "Buddha",
+      "dayOfYear": 147
+    },
+    {
+      "id": 148,
+      "text": "What you think, you become. What you feel, you attract. What you imagine, you create.",
+      "author": "Buddha",
+      "dayOfYear": 148
+    },
+    {
+      "id": 149,
+      "text": "Those who have failed to work toward the truth have missed the purpose of living.",
+      "author": "Buddha",
+      "dayOfYear": 149
+    },
+    {
+      "id": 150,
+      "text": "The greatest medicine is a tranquil mind.",
+      "author": "Buddha",
+      "dayOfYear": 150
+    },
+    {
+      "id": 151,
+      "text": "As a bee collects nectar and departs without injuring the flower or its color or fragrance, so let the sage dwell in the village.",
+      "author": "Buddha",
+      "dayOfYear": 151
+    },
+    {
+      "id": 152,
+      "text": "The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.",
+      "author": "Buddha",
+      "dayOfYear": 152
+    },
+    {
+      "id": 153,
+      "text": "Hatred does not cease by hatred, but only by love; this is the eternal rule.",
+      "author": "Buddha",
+      "dayOfYear": 153
+    },
+    {
+      "id": 154,
+      "text": "To abstain from all evil, to cultivate good, and to purify one's mind – this is the teaching of the Buddhas.",
+      "author": "Buddha",
+      "dayOfYear": 154
+    },
+    {
+      "id": 155,
+      "text": "Patience is a most necessary quality for business.",
+      "author": "Buddha",
+      "dayOfYear": 155
+    },
+    {
+      "id": 156,
+      "text": "Wear your best clothes and put on your best face for the world, but don't forget to take care of your inner self.",
+      "author": "Buddha",
+      "dayOfYear": 156
+    },
+    {
+      "id": 157,
+      "text": "The wise speak of the way as the end of suffering.",
+      "author": "Buddha",
+      "dayOfYear": 157
+    },
+    {
+      "id": 158,
+      "text": "Give up the past, give up the future, give up the present. Cross over to the farther shore of existence. With mind wholly liberated, you will not again return to birth and decay.",
+      "author": "Buddha",
+      "dayOfYear": 158
+    },
+    {
+      "id": 159,
+      "text": "Even as a solid rock is not shaken by the wind, so are the wise unshaken by praise or blame.",
+      "author": "Buddha",
+      "dayOfYear": 159
+    },
+    {
+      "id": 160,
+      "text": "Do not seek to follow in the footsteps of the wise. Seek what they sought.",
+      "author": "Buddha",
+      "dayOfYear": 160
+    },
+    {
+      "id": 161,
+      "text": "The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.",
+      "author": "Buddha",
+      "dayOfYear": 161
+    },
+    {
+      "id": 162,
+      "text": "A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.",
+      "author": "Buddha",
+      "dayOfYear": 162
+    },
+    {
+      "id": 163,
+      "text": "Better than living a hundred years, knowing nothing of the highest truth, is one day of life knowing the highest truth.",
+      "author": "Buddha",
+      "dayOfYear": 163
+    },
+    {
+      "id": 164,
+      "text": "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+      "author": "Buddha",
+      "dayOfYear": 164
+    },
+    {
+      "id": 165,
+      "text": "The greatest prayer is to have no fear of the unknown.",
+      "author": "Buddha",
+      "dayOfYear": 165
+    },
+    {
+      "id": 166,
+      "text": "Understanding is the heartwood of the tree of life, and without it, all the leaves and branches are withered.",
+      "author": "Buddha",
+      "dayOfYear": 166
+    },
+    {
+      "id": 167,
+      "text": "Nothing is permanent. Everything changes.",
+      "author": "Buddha",
+      "dayOfYear": 167
+    },
+    {
+      "id": 168,
+      "text": "If you knew what I know about the power of giving, you would not let a single meal pass without sharing it in some way.",
+      "author": "Buddha",
+      "dayOfYear": 168
+    },
+    {
+      "id": 169,
+      "text": "Reshape yourself through the power of your will; otherwise, your will be an enemy.",
+      "author": "Buddha",
+      "dayOfYear": 169
+    },
+    {
+      "id": 170,
+      "text": "What we think, we become.",
+      "author": "Buddha",
+      "dayOfYear": 170
+    },
+    {
+      "id": 171,
+      "text": "There is no way to happiness. Happiness is the way.",
+      "author": "Buddha",
+      "dayOfYear": 171
+    },
+    {
+      "id": 172,
+      "text": "To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.",
+      "author": "Buddha",
+      "dayOfYear": 172
+    },
+    {
+      "id": 173,
+      "text": "Let us endeavor to live so that when we come to die, even the undertaker will be sorry.",
+      "author": "Buddha",
+      "dayOfYear": 173
+    },
+    {
+      "id": 174,
+      "text": "The tongue is a sharp knife that kills without drawing blood.",
+      "author": "Buddha",
+      "dayOfYear": 174
+    },
+    {
+      "id": 175,
+      "text": "Just as the great ocean has one taste, the taste of salt, so also this teaching has one taste, the taste of freedom.",
+      "author": "Buddha",
+      "dayOfYear": 175
+    },
+    {
+      "id": 176,
+      "text": "A man is not learned because he speaks much; he who is patient, free from hatred and fear, he is called learned.",
+      "author": "Buddha",
+      "dayOfYear": 176
+    },
+    {
+      "id": 177,
+      "text": "Your life is your message to the world. Make sure it's inspiring.",
+      "author": "Buddha",
+      "dayOfYear": 177
+    },
+    {
+      "id": 178,
+      "text": "Whatever a person does, that will be his inheritance.",
+      "author": "Buddha",
+      "dayOfYear": 178
+    },
+    {
+      "id": 179,
+      "text": "The trouble is, you think you have time.",
+      "author": "Buddha",
+      "dayOfYear": 179
+    },
+    {
+      "id": 180,
+      "text": "The greatest delusion is fear.",
+      "author": "Buddha",
+      "dayOfYear": 180
+    },
+    {
+      "id": 181,
+      "text": "One moment can change a day, one day can change a life, one life can change the world.",
+      "author": "Buddha",
+      "dayOfYear": 181
+    },
+    {
+      "id": 182,
+      "text": "However many holy words you read, however many you speak, what good will they do you if you do not act on them?",
+      "author": "Buddha",
+      "dayOfYear": 182
+    },
+    {
+      "id": 183,
+      "text": "Silence the angry man with love. Silence the ill-willed man with kindness. Silence the miser with generosity. Silence the liar with truth.",
+      "author": "Buddha",
+      "dayOfYear": 183
+    },
+    {
+      "id": 184,
+      "text": "Work out your own salvation. Do not depend on others.",
+      "author": "Buddha",
+      "dayOfYear": 184
+    },
+    {
+      "id": 185,
+      "text": "The wise man in the storm prays to God, not for safety from danger, but for deliverance from fear. It is the storm within which endangers us, not the storm without.",
+      "author": "Buddha",
+      "dayOfYear": 185
+    },
+    {
+      "id": 186,
+      "text": "A generous heart, kind speech, and a life of service and compassion are the things which renew humanity.",
+      "author": "Buddha",
+      "dayOfYear": 186
+    },
+    {
+      "id": 187,
+      "text": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
+      "author": "Buddha",
+      "dayOfYear": 187
+    },
+    {
+      "id": 188,
+      "text": "Conquer the angry one by love. Conquer the evil one by good. Conquer the stingy one by giving. Conquer the liar by truth.",
+      "author": "Buddha",
+      "dayOfYear": 188
+    },
+    {
+      "id": 189,
+      "text": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+      "author": "Buddha",
+      "dayOfYear": 189
+    },
+    {
+      "id": 190,
+      "text": "The greatest wealth is to live content with little.",
+      "author": "Buddha",
+      "dayOfYear": 190
+    },
+    {
+      "id": 191,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "dayOfYear": 191
+    },
+    {
+      "id": 192,
+      "text": "If you light a lamp for someone else, it will also brighten your own path.",
+      "author": "Buddha",
+      "dayOfYear": 192
+    },
+    {
+      "id": 193,
+      "text": "An ungrateful mind is a monster, which devours that by which it is nourished.",
+      "author": "Buddha",
+      "dayOfYear": 193
+    },
+    {
+      "id": 194,
+      "text": "All experiences are preceded by mind, having mind as their master, created by mind.",
+      "author": "Buddha",
+      "dayOfYear": 194
+    },
+    {
+      "id": 195,
+      "text": "Just as a tree, though cut down, sprouts up again if its roots are undamaged and strong, so also, if the roots of craving are not destroyed, the suffering sprouts forth again and again.",
+      "author": "Buddha",
+      "dayOfYear": 195
+    },
+    {
+      "id": 196,
+      "text": "To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind.",
+      "author": "Buddha",
+      "dayOfYear": 196
+    },
+    {
+      "id": 197,
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "dayOfYear": 197
+    },
+    {
+      "id": 198,
+      "text": "The greatest victory is that over oneself.",
+      "author": "Buddha",
+      "dayOfYear": 198
+    },
+    {
+      "id": 199,
+      "text": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+      "author": "Buddha",
+      "dayOfYear": 199
+    },
+    {
+      "id": 200,
+      "text": "The only way to happiness is to cease worrying about things which are beyond the power of our will.",
+      "author": "Buddha",
+      "dayOfYear": 200
+    },
+    {
+      "id": 201,
+      "text": "Do not pursue the past. Do not lose yourself in the future. The past no longer is. The future has not yet come. Looking deeply at life as it is in the very here and now, the practitioner dwells in stability and freedom.",
+      "author": "Buddha",
+      "dayOfYear": 201
+    },
+    {
+      "id": 202,
+      "text": "To conquer oneself is a greater task than conquering others.",
+      "author": "Buddha",
+      "dayOfYear": 202
+    },
+    {
+      "id": 203,
+      "text": "The greatest blessing is to have no needs.",
+      "author": "Buddha",
+      "dayOfYear": 203
+    },
+    {
+      "id": 204,
+      "text": "Better than living a hundred years, not seeing the highest truth, is one day of life seeing the highest truth.",
+      "author": "Buddha",
+      "dayOfYear": 204
+    },
+    {
+      "id": 205,
+      "text": "Let us rise up and be thankful, for if we didn’t learn a lot today, at least we learned a little, and if we didn’t learn a little, at least we didn’t get sick, and if we got sick, at least we didn’t die; so, let us all be thankful.",
+      "author": "Buddha",
+      "dayOfYear": 205
+    },
+    {
+      "id": 206,
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "dayOfYear": 206
+    },
+    {
+      "id": 207,
+      "text": "Empty your mind, be formless, shapeless – like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.",
+      "author": "Buddha",
+      "dayOfYear": 207
+    },
+    {
+      "id": 208,
+      "text": "Your own self is your master; who else could be? With self-control, you gain a master hard to find.",
+      "author": "Buddha",
+      "dayOfYear": 208
+    },
+    {
+      "id": 209,
+      "text": "The greatest prayer is patience.",
+      "author": "Buddha",
+      "dayOfYear": 209
+    },
+    {
+      "id": 210,
+      "text": "The mind is hard to check, swift, it flies wherever it wishes. To tame it is good. A tamed mind brings happiness.",
+      "author": "Buddha",
+      "dayOfYear": 210
+    },
+    {
+      "id": 211,
+      "text": "He who loves 50 people has 50 woes; he who loves no one has no woes.",
+      "author": "Buddha",
+      "dayOfYear": 211
+    },
+    {
+      "id": 212,
+      "text": "Just as a candle cannot burn without fire, men cannot exist without a spiritual life.",
+      "author": "Buddha",
+      "dayOfYear": 212
+    },
+    {
+      "id": 213,
+      "text": "An insincere and evil friend is more to be feared than a wild beast; a wild beast may wound your body, but an evil friend will wound your mind.",
+      "author": "Buddha",
+      "dayOfYear": 213
+    },
+    {
+      "id": 214,
+      "text": "The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.",
+      "author": "Buddha",
+      "dayOfYear": 214
+    },
+    {
+      "id": 215,
+      "text": "A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.",
+      "author": "Buddha",
+      "dayOfYear": 215
+    },
+    {
+      "id": 216,
+      "text": "The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.",
+      "author": "Buddha",
+      "dayOfYear": 216
+    },
+    {
+      "id": 217,
+      "text": "Nothing is permanent. Everything changes.",
+      "author": "Buddha",
+      "dayOfYear": 217
+    },
+    {
+      "id": 218,
+      "text": "If you knew what I know about the power of giving, you would not let a single meal pass without sharing it in some way.",
+      "author": "Buddha",
+      "dayOfYear": 218
+    },
+    {
+      "id": 219,
+      "text": "Reshape yourself through the power of your will; otherwise, your will be an enemy.",
+      "author": "Buddha",
+      "dayOfYear": 219
+    },
+    {
+      "id": 220,
+      "text": "What we think, we become.",
+      "author": "Buddha",
+      "dayOfYear": 220
+    },
+    {
+      "id": 221,
+      "text": "To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.",
+      "author": "Buddha",
+      "dayOfYear": 221
+    },
+    {
+      "id": 222,
+      "text": "Let us endeavor to live so that when we come to die, even the undertaker will be sorry.",
+      "author": "Buddha",
+      "dayOfYear": 222
+    },
+    {
+      "id": 223,
+      "text": "The greatest delusion is fear.",
+      "author": "Buddha",
+      "dayOfYear": 223
+    },
+    {
+      "id": 224,
+      "text": "Every morning we are born again. What we do today is what matters most.",
+      "author": "Buddha",
+      "dayOfYear": 224
+    },
+    {
+      "id": 225,
+      "text": "The greatest evil is a lack of love and compassion.",
+      "author": "Buddha",
+      "dayOfYear": 225
+    },
+    {
+      "id": 226,
+      "text": "The wise ones who are intent on meditation, who delight in the peace of renunciation, such mindful ones, even the gods admire.",
+      "author": "Buddha",
+      "dayOfYear": 226
+    },
+    {
+      "id": 227,
+      "text": "However many holy words you read, however many you speak, what good will they do you if you do not act on them?",
+      "author": "Buddha",
+      "dayOfYear": 227
+    },
+    {
+      "id": 228,
+      "text": "Silence the angry man with love. Silence the ill-willed man with kindness. Silence the miser with generosity. Silence the liar with truth.",
+      "author": "Buddha",
+      "dayOfYear": 228
+    },
+    {
+      "id": 229,
+      "text": "Work out your own salvation. Do not depend on others.",
+      "author": "Buddha",
+      "dayOfYear": 229
+    },
+    {
+      "id": 230,
+      "text": "The wise man in the storm prays to God, not for safety from danger, but for deliverance from fear. It is the storm within which endangers us, not the storm without.",
+      "author": "Buddha",
+      "dayOfYear": 230
+    },
+    {
+      "id": 231,
+      "text": "A generous heart, kind speech, and a life of service and compassion are the things which renew humanity.",
+      "author": "Buddha",
+      "dayOfYear": 231
+    },
+    {
+      "id": 232,
+      "text": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
+      "author": "Buddha",
+      "dayOfYear": 232
+    },
+    {
+      "id": 233,
+      "text": "Conquer the angry one by love. Conquer the evil one by good. Conquer the stingy one by giving. Conquer the liar by truth.",
+      "author": "Buddha",
+      "dayOfYear": 233
+    },
+    {
+      "id": 234,
+      "text": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+      "author": "Buddha",
+      "dayOfYear": 234
+    },
+    {
+      "id": 235,
+      "text": "The greatest wealth is to live content with little.",
+      "author": "Buddha",
+      "dayOfYear": 235
+    },
+    {
+      "id": 236,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "dayOfYear": 236
+    },
+    {
+      "id": 237,
+      "text": "If you light a lamp for someone else, it will also brighten your own path.",
+      "author": "Buddha",
+      "dayOfYear": 237
+    },
+    {
+      "id": 238,
+      "text": "An ungrateful mind is a monster, which devours that by which it is nourished.",
+      "author": "Buddha",
+      "dayOfYear": 238
+    },
+    {
+      "id": 239,
+      "text": "All experiences are preceded by mind, having mind as their master, created by mind.",
+      "author": "Buddha",
+      "dayOfYear": 239
+    },
+    {
+      "id": 240,
+      "text": "Just as a tree, though cut down, sprouts up again if its roots are undamaged and strong, so also, if the roots of craving are not destroyed, the suffering sprouts forth again and again.",
+      "author": "Buddha",
+      "dayOfYear": 240
+    },
+    {
+      "id": 241,
+      "text": "To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind.",
+      "author": "Buddha",
+      "dayOfYear": 241
+    },
+    {
+      "id": 242,
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "dayOfYear": 242
+    },
+    {
+      "id": 243,
+      "text": "The greatest victory is that over oneself.",
+      "author": "Buddha",
+      "dayOfYear": 243
+    },
+    {
+      "id": 244,
+      "text": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+      "author": "Buddha",
+      "dayOfYear": 244
+    },
+    {
+      "id": 245,
+      "text": "Pain is inevitable. Suffering is optional.",
+      "author": "Buddha",
+      "dayOfYear": 245
+    },
+    {
+      "id": 246,
+      "text": "The secret of Buddhism is to remove all ideas, all concepts, in order for the truth to have a chance to penetrate, to sink in.",
+      "author": "Buddha",
+      "dayOfYear": 246
+    },
+    {
+      "id": 247,
+      "text": "To be truly happy and free, you must love yourself.",
+      "author": "Buddha",
+      "dayOfYear": 247
+    },
+    {
+      "id": 248,
+      "text": "The only constant in life is change.",
+      "author": "Buddha",
+      "dayOfYear": 248
+    },
+    {
+      "id": 249,
+      "text": "Do not speak badly of others. Do not find fault with others. Do not criticize. If you are angry, say nothing. If you find fault, say nothing. If you find something good, speak of it.",
+      "author": "Buddha",
+      "dayOfYear": 249
+    },
+    {
+      "id": 250,
+      "text": "The greatest wealth is to live content with little.",
+      "author": "Buddha",
+      "dayOfYear": 250
+    },
+    {
+      "id": 251,
+      "text": "Understanding is the heartwood of the tree of life, and without it, all the leaves and branches are withered.",
+      "author": "Buddha",
+      "dayOfYear": 251
+    },
+    {
+      "id": 252,
+      "text": "However many holy words you read, however many you speak, what good will they do you if you do not act on them?",
+      "author": "Buddha",
+      "dayOfYear": 252
+    },
+    {
+      "id": 253,
+      "text": "The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.",
+      "author": "Buddha",
+      "dayOfYear": 253
+    },
+    {
+      "id": 254,
+      "text": "Your own self is your master; who else could be? With self-control, you gain a master hard to find.",
+      "author": "Buddha",
+      "dayOfYear": 254
+    },
+    {
+      "id": 255,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "dayOfYear": 255
+    },
+    {
+      "id": 256,
+      "text": "Chaos is inherent in all compounded things. Strive on with diligence.",
+      "author": "Buddha",
+      "dayOfYear": 256
+    },
+    {
+      "id": 257,
+      "text": "Better than a thousand hollow words, is one word that brings peace.",
+      "author": "Buddha",
+      "dayOfYear": 257
+    },
+    {
+      "id": 258,
+      "text": "The root of suffering is attachment.",
+      "author": "Buddha",
+      "dayOfYear": 258
+    },
+    {
+      "id": 259,
+      "text": "Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense.",
+      "author": "Buddha",
+      "dayOfYear": 259
+    },
+    {
+      "id": 260,
+      "text": "To be idle is a short road to death and to be diligent is a long road to life.",
+      "author": "Buddha",
+      "dayOfYear": 260
+    },
+    {
+      "id": 261,
+      "text": "The way is not in the sky. The way is in the heart.",
+      "author": "Buddha",
+      "dayOfYear": 261
+    },
+    {
+      "id": 262,
+      "text": "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
+      "author": "Buddha",
+      "dayOfYear": 262
+    },
+    {
+      "id": 263,
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "dayOfYear": 263
+    },
+    {
+      "id": 264,
+      "text": "What we think, we become.",
+      "author": "Buddha",
+      "dayOfYear": 264
+    },
+    {
+      "id": 265,
+      "text": "The past is already gone, the future is not yet here. There is only one moment for you to live, and that is the present moment.",
+      "author": "Buddha",
+      "dayOfYear": 265
+    },
+    {
+      "id": 266,
+      "text": "Do not pursue the past. Do not lose yourself in the future. The past no longer is. The future has not yet come.",
+      "author": "Buddha",
+      "dayOfYear": 266
+    },
+    {
+      "id": 267,
+      "text": "The gift of truth excels all other gifts.",
+      "author": "Buddha",
+      "dayOfYear": 267
+    },
+    {
+      "id": 268,
+      "text": "If you truly loved yourself, you would never harm another.",
+      "author": "Buddha",
+      "dayOfYear": 268
+    },
+    {
+      "id": 269,
+      "text": "The greatest medicine is a tranquil mind.",
+      "author": "Buddha",
+      "dayOfYear": 269
+    },
+    {
+      "id": 270,
+      "text": "As a bee collects nectar and departs without injuring the flower or its color or fragrance, so let the sage dwell in the village.",
+      "author": "Buddha",
+      "dayOfYear": 270
+    },
+    {
+      "id": 271,
+      "text": "Hatred does not cease by hatred, but only by love; this is the eternal rule.",
+      "author": "Buddha",
+      "dayOfYear": 271
+    },
+    {
+      "id": 272,
+      "text": "To abstain from all evil, to cultivate good, and to purify one's mind – this is the teaching of the Buddhas.",
+      "author": "Buddha",
+      "dayOfYear": 272
+    },
+    {
+      "id": 273,
+      "text": "Patience is a most necessary quality for business.",
+      "author": "Buddha",
+      "dayOfYear": 273
+    },
+    {
+      "id": 274,
+      "text": "The wise speak of the way as the end of suffering.",
+      "author": "Buddha",
+      "dayOfYear": 274
+    },
+    {
+      "id": 275,
+      "text": "Give up the past, give up the future, give up the present. Cross over to the farther shore of existence. With mind wholly liberated, you will not again return to birth and decay.",
+      "author": "Buddha",
+      "dayOfYear": 275
+    },
+    {
+      "id": 276,
+      "text": "Even as a solid rock is not shaken by the wind, so are the wise unshaken by praise or blame.",
+      "author": "Buddha",
+      "dayOfYear": 276
+    },
+    {
+      "id": 277,
+      "text": "Do not seek to follow in the footsteps of the wise. Seek what they sought.",
+      "author": "Buddha",
+      "dayOfYear": 277
+    },
+    {
+      "id": 278,
+      "text": "The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.",
+      "author": "Buddha",
+      "dayOfYear": 278
+    },
+    {
+      "id": 279,
+      "text": "A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.",
+      "author": "Buddha",
+      "dayOfYear": 279
+    },
+    {
+      "id": 280,
+      "text": "Better than living a hundred years, knowing nothing of the highest truth, is one day of life knowing the highest truth.",
+      "author": "Buddha",
+      "dayOfYear": 280
+    },
+    {
+      "id": 281,
+      "text": "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+      "author": "Buddha",
+      "dayOfYear": 281
+    },
+    {
+      "id": 282,
+      "text": "The greatest prayer is to have no fear of the unknown.",
+      "author": "Buddha",
+      "dayOfYear": 282
+    },
+    {
+      "id": 283,
+      "text": "If you knew what I know about the power of giving, you would not let a single meal pass without sharing it in some way.",
+      "author": "Buddha",
+      "dayOfYear": 283
+    },
+    {
+      "id": 284,
+      "text": "Reshape yourself through the power of your will; otherwise, your will be an enemy.",
+      "author": "Buddha",
+      "dayOfYear": 284
+    },
+    {
+      "id": 285,
+      "text": "To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.",
+      "author": "Buddha",
+      "dayOfYear": 285
+    },
+    {
+      "id": 286,
+      "text": "Let us endeavor to live so that when we come to die, even the undertaker will be sorry.",
+      "author": "Buddha",
+      "dayOfYear": 286
+    },
+    {
+      "id": 287,
+      "text": "The greatest delusion is fear.",
+      "author": "Buddha",
+      "dayOfYear": 287
+    },
+    {
+      "id": 288,
+      "text": "Every morning we are born again. What we do today is what matters most.",
+      "author": "Buddha",
+      "dayOfYear": 288
+    },
+    {
+      "id": 289,
+      "text": "The greatest evil is a lack of love and compassion.",
+      "author": "Buddha",
+      "dayOfYear": 289
+    },
+    {
+      "id": 290,
+      "text": "The wise ones who are intent on meditation, who delight in the peace of renunciation, such mindful ones, even the gods admire.",
+      "author": "Buddha",
+      "dayOfYear": 290
+    },
+    {
+      "id": 291,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "dayOfYear": 291
+    },
+    {
+      "id": 292,
+      "text": "If you light a lamp for someone else, it will also brighten your own path.",
+      "author": "Buddha",
+      "dayOfYear": 292
+    },
+    {
+      "id": 293,
+      "text": "An ungrateful mind is a monster, which devours that by which it is nourished.",
+      "author": "Buddha",
+      "dayOfYear": 293
+    },
+    {
+      "id": 294,
+      "text": "All experiences are preceded by mind, having mind as their master, created by mind.",
+      "author": "Buddha",
+      "dayOfYear": 294
+    },
+    {
+      "id": 295,
+      "text": "Just as a tree, though cut down, sprouts up again if its roots are undamaged and strong, so also, if the roots of craving are not destroyed, the suffering sprouts forth again and again.",
+      "author": "Buddha",
+      "dayOfYear": 295
+    },
+    {
+      "id": 296,
+      "text": "To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind.",
+      "author": "Buddha",
+      "dayOfYear": 296
+    },
+    {
+      "id": 297,
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "dayOfYear": 297
+    },
+    {
+      "id": 298,
+      "text": "The greatest victory is that over oneself.",
+      "author": "Buddha",
+      "dayOfYear": 298
+    },
+    {
+      "id": 299,
+      "text": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+      "author": "Buddha",
+      "dayOfYear": 299
+    },
+    {
+      "id": 250,
+      "text": "The greatest wealth is to live content with little.",
+      "author": "Buddha",
+      "dayOfYear": 250
+    },
+    {
+      "id": 251,
+      "text": "Understanding is the heartwood of the tree of life, and without it, all the leaves and branches are withered.",
+      "author": "Buddha",
+      "dayOfYear": 251
+    },
+    {
+      "id": 252,
+      "text": "However many holy words you read, however many you speak, what good will they do you if you do not act on them?",
+      "author": "Buddha",
+      "dayOfYear": 252
+    },
+    {
+      "id": 253,
+      "text": "The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.",
+      "author": "Buddha",
+      "dayOfYear": 253
+    },
+    {
+      "id": 254,
+      "text": "Your own self is your master; who else could be? With self-control, you gain a master hard to find.",
+      "author": "Buddha",
+      "dayOfYear": 254
+    },
+    {
+      "id": 255,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "dayOfYear": 255
+    },
+    {
+      "id": 256,
+      "text": "Chaos is inherent in all compounded things. Strive on with diligence.",
+      "author": "Buddha",
+      "dayOfYear": 256
+    },
+    {
+      "id": 257,
+      "text": "Better than a thousand hollow words, is one word that brings peace.",
+      "author": "Buddha",
+      "dayOfYear": 257
+    },
+    {
+      "id": 258,
+      "text": "The root of suffering is attachment.",
+      "author": "Buddha",
+      "dayOfYear": 258
+    },
+    {
+      "id": 259,
+      "text": "Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense.",
+      "author": "Buddha",
+      "dayOfYear": 259
+    },
+    {
+      "id": 260,
+      "text": "To be idle is a short road to death and to be diligent is a long road to life.",
+      "author": "Buddha",
+      "dayOfYear": 260
+    },
+    {
+      "id": 261,
+      "text": "The way is not in the sky. The way is in the heart.",
+      "author": "Buddha",
+      "dayOfYear": 261
+    },
+    {
+      "id": 262,
+      "text": "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
+      "author": "Buddha",
+      "dayOfYear": 262
+    },
+    {
+      "id": 263,
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "dayOfYear": 263
+    },
+    {
+      "id": 264,
+      "text": "What we think, we become.",
+      "author": "Buddha",
+      "dayOfYear": 264
+    },
+    {
+      "id": 265,
+      "text": "The past is already gone, the future is not yet here. There is only one moment for you to live, and that is the present moment.",
+      "author": "Buddha",
+      "dayOfYear": 265
+    },
+    {
+      "id": 266,
+      "text": "Do not pursue the past. Do not lose yourself in the future. The past no longer is. The future has not yet come.",
+      "author": "Buddha",
+      "dayOfYear": 266
+    },
+    {
+      "id": 267,
+      "text": "The gift of truth excels all other gifts.",
+      "author": "Buddha",
+      "dayOfYear": 267
+    },
+    {
+      "id": 268,
+      "text": "If you truly loved yourself, you would never harm another.",
+      "author": "Buddha",
+      "dayOfYear": 268
+    },
+    {
+      "id": 269,
+      "text": "The greatest medicine is a tranquil mind.",
+      "author": "Buddha",
+      "dayOfYear": 269
+    },
+    {
+      "id": 270,
+      "text": "As a bee collects nectar and departs without injuring the flower or its color or fragrance, so let the sage dwell in the village.",
+      "author": "Buddha",
+      "dayOfYear": 270
+    },
+    {
+      "id": 271,
+      "text": "Hatred does not cease by hatred, but only by love; this is the eternal rule.",
+      "author": "Buddha",
+      "dayOfYear": 271
+    },
+    {
+      "id": 272,
+      "text": "To abstain from all evil, to cultivate good, and to purify one's mind – this is the teaching of the Buddhas.",
+      "author": "Buddha",
+      "dayOfYear": 272
+    },
+    {
+      "id": 273,
+      "text": "Patience is a most necessary quality for business.",
+      "author": "Buddha",
+      "dayOfYear": 273
+    },
+    {
+      "id": 274,
+      "text": "The wise speak of the way as the end of suffering.",
+      "author": "Buddha",
+      "dayOfYear": 274
+    },
+    {
+      "id": 275,
+      "text": "Give up the past, give up the future, give up the present. Cross over to the farther shore of existence. With mind wholly liberated, you will not again return to birth and decay.",
+      "author": "Buddha",
+      "dayOfYear": 275
+    },
+    {
+      "id": 276,
+      "text": "Even as a solid rock is not shaken by the wind, so are the wise unshaken by praise or blame.",
+      "author": "Buddha",
+      "dayOfYear": 276
+    },
+    {
+      "id": 277,
+      "text": "Do not seek to follow in the footsteps of the wise. Seek what they sought.",
+      "author": "Buddha",
+      "dayOfYear": 277
+    },
+    {
+      "id": 278,
+      "text": "The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world.",
+      "author": "Buddha",
+      "dayOfYear": 278
+    },
+    {
+      "id": 279,
+      "text": "A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.",
+      "author": "Buddha",
+      "dayOfYear": 279
+    },
+    {
+      "id": 280,
+      "text": "Better than living a hundred years, knowing nothing of the highest truth, is one day of life knowing the highest truth.",
+      "author": "Buddha",
+      "dayOfYear": 280
+    },
+    {
+      "id": 281,
+      "text": "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+      "author": "Buddha",
+      "dayOfYear": 281
+    },
+    {
+      "id": 282,
+      "text": "The greatest prayer is to have no fear of the unknown.",
+      "author": "Buddha",
+      "dayOfYear": 282
+    },
+    {
+      "id": 283,
+      "text": "If you knew what I know about the power of giving, you would not let a single meal pass without sharing it in some way.",
+      "author": "Buddha",
+      "dayOfYear": 283
+    },
+    {
+      "id": 284,
+      "text": "Reshape yourself through the power of your will; otherwise, your will be an enemy.",
+      "author": "Buddha",
+      "dayOfYear": 284
+    },
+    {
+      "id": 285,
+      "text": "To live a pure unselfish life, one must count nothing as one's own in the midst of abundance.",
+      "author": "Buddha",
+      "dayOfYear": 285
+    },
+    {
+      "id": 286,
+      "text": "Let us endeavor to live so that when we come to die, even the undertaker will be sorry.",
+      "author": "Buddha",
+      "dayOfYear": 286
+    },
+    {
+      "id": 287,
+      "text": "The greatest delusion is fear.",
+      "author": "Buddha",
+      "dayOfYear": 287
+    },
+    {
+      "id": 288,
+      "text": "Every morning we are born again. What we do today is what matters most.",
+      "author": "Buddha",
+      "dayOfYear": 288
+    },
+    {
+      "id": 289,
+      "text": "The greatest evil is a lack of love and compassion.",
+      "author": "Buddha",
+      "dayOfYear": 289
+    },
+    {
+      "id": 290,
+      "text": "The wise ones who are intent on meditation, who delight in the peace of renunciation, such mindful ones, even the gods admire.",
+      "author": "Buddha",
+      "dayOfYear": 290
+    },
+    {
+      "id": 291,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "dayOfYear": 291
+    },
+    {
+      "id": 292,
+      "text": "If you light a lamp for someone else, it will also brighten your own path.",
+      "author": "Buddha",
+      "dayOfYear": 292
+    },
+    {
+      "id": 293,
+      "text": "An ungrateful mind is a monster, which devours that by which it is nourished.",
+      "author": "Buddha",
+      "dayOfYear": 293
+    },
+    {
+      "id": 294,
+      "text": "All experiences are preceded by mind, having mind as their master, created by mind.",
+      "author": "Buddha",
+      "dayOfYear": 294
+    },
+    {
+      "id": 295,
+      "text": "Just as a tree, though cut down, sprouts up again if its roots are undamaged and strong, so also, if the roots of craving are not destroyed, the suffering sprouts forth again and again.",
+      "author": "Buddha",
+      "dayOfYear": 295
+    },
+    {
+      "id": 296,
+      "text": "To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind.",
+      "author": "Buddha",
+      "dayOfYear": 296
+    },
+    {
+      "id": 297,
+      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "author": "Buddha",
+      "dayOfYear": 297
+    },
+    {
+      "id": 298,
+      "text": "The greatest victory is that over oneself.",
+      "author": "Buddha",
+      "dayOfYear": 298
+    },
+    {
+      "id": 299,
+      "text": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+      "author": "Buddha",
+      "dayOfYear": 299
+    },
+    {
+      "id": 300,
+      "text": "The mind is hard to check, swift, it flies wherever it wishes. To tame it is good. A tamed mind brings happiness.",
+      "author": "Buddha",
+      "dayOfYear": 300
+    },
+    {
+      "id": 301,
+      "text": "Whatever words we utter should be chosen with care for people will hear them and be influenced by them for good or ill.",
+      "author": "Buddha",
+      "dayOfYear": 301
+    },
+    {
+      "id": 302,
+      "text": "The greatest blessing is contentment.",
+      "author": "Buddha",
+      "dayOfYear": 302
+    },
+    {
+      "id": 303,
+      "text": "As a bee gathers nectar without harming the flower, so should a sage move through life.",
+      "author": "Buddha",
+      "dayOfYear": 303
+    },
+    {
+      "id": 304,
+      "text": "Your own self is your master; who else could be? With self-control, you gain a master hard to find.",
+      "author": "Buddha",
+      "dayOfYear": 304
+    },
+    {
+      "id": 305,
+      "text": "Let go of the past, let go of the future, let go of the present, and cross over to the other shore.",
+      "author": "Buddha",
+      "dayOfYear": 305
+    },
+    {
+      "id": 306,
+      "text": "Believe nothing, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense.",
+      "author": "Buddha",
+      "dayOfYear": 306
+    },
+    {
+      "id": 307,
+      "text": "He who acts under the impulse of his desires is carried along by the stream.",
+      "author": "Buddha",
+      "dayOfYear": 307
+    },
+    {
+      "id": 308,
+      "text": "Like a deep lake, clear and still, so a wise person becomes peaceful upon hearing the teachings.",
+      "author": "Buddha",
+      "dayOfYear": 308
+    },
+    {
+      "id": 309,
+      "text": "The way is not in the sky. The way is in the heart.",
+      "author": "Buddha",
+      "dayOfYear": 309
+    },
+    {
+      "id": 310,
+      "text": "Speak only words that are kind, peaceful, and truthful.",
+      "author": "Buddha",
+      "dayOfYear": 310
+    },
+    {
+      "id": 311,
+      "text": "Better than a thousand hollow words is one word that brings peace.",
+      "author": "Buddha",
+      "dayOfYear": 311
+    },
+    {
+      "id": 312,
+      "text": "Do not pursue the past. Do not lose yourself in the future. The past no longer is. The future has not yet come. Looking deeply at life as it is in the very here and now, the practitioner dwells in stability and freedom.",
+      "author": "Buddha",
+      "dayOfYear": 312
+    },
+    {
+      "id": 313,
+      "text": "If you want to understand your past, look at your present conditions. If you want to understand your future, look at your present actions.",
+      "author": "Buddha",
+      "dayOfYear": 313
+    },
+    {
+      "id": 314,
+      "text": "The greatest prayer is patience.",
+      "author": "Buddha",
+      "dayOfYear": 314
+    },
+    {
+      "id": 315,
+      "text": "Radiate boundless love towards the entire world—above, below, and across—unhindered, without ill will, without enmity.",
+      "author": "Buddha",
+      "dayOfYear": 315
+    },
+    {
+      "id": 316,
+      "text": "The journey of a thousand miles begins with a single step.",
+      "author": "Buddha",
+      "dayOfYear": 316
+    },
+    {
+      "id": 317,
+      "text": "Every morning we are born again. What we do today is what matters most.",
+      "author": "Buddha",
+      "dayOfYear": 317
+    },
+    {
+      "id": 318,
+      "text": "He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye.",
+      "author": "Buddha",
+      "dayOfYear": 318
+    },
+    {
+      "id": 319,
+      "text": "The truth is not a theory, but a liberation.",
+      "author": "Buddha",
+      "dayOfYear": 319
+    },
+    {
+      "id": 320,
+      "text": "To understand everything is to forgive everything.",
+      "author": "Buddha",
+      "dayOfYear": 320
+    },
+    {
+      "id": 321,
+      "text": "Just as a candle cannot burn without fire, men cannot exist without a spiritual life.",
+      "author": "Buddha",
+      "dayOfYear": 321
+    },
+    {
+      "id": 322,
+      "text": "The only real failure in life is not to be true to the best one knows.",
+      "author": "Buddha",
+      "dayOfYear": 322
+    },
+    {
+      "id": 323,
+      "text": "Know from experience that no pleasure is a good thing if it brings a later pain.",
+      "author": "Buddha",
+      "dayOfYear": 323
+    },
+    {
+      "id": 324,
+      "text": "All living beings are subject to decay. Achieve your own salvation with diligence.",
+      "author": "Buddha",
+      "dayOfYear": 324
+    },
+    {
+      "id": 325,
+      "text": "The path is not to be found in the sky. The path is in the heart.",
+      "author": "Buddha",
+      "dayOfYear": 325
+    },
+    {
+      "id": 326,
+      "text": "Holding onto anger is like drinking poison and expecting the other person to die.",
+      "author": "Buddha",
+      "dayOfYear": 326
+    },
+    {
+      "id": 327,
+      "text": "Peace comes from within. Do not seek it without.",
+      "author": "Buddha",
+      "dayOfYear": 327
+    },
+    {
+      "id": 328,
+      "text": "To be kind to all, to love all, to serve all, to be happy, to be contented, to be peaceful.",
+      "author": "Buddha",
+      "dayOfYear": 328
+    },
+    {
+      "id": 329,
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "dayOfYear": 329
+    },
+    {
+      "id": 330,
+      "text": "It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.",
+      "author": "Buddha",
+      "dayOfYear": 330
+    },
+    {
+      "id": 331,
+      "text": "Better than worshipping gods is obedience to the laws of righteousness.",
+      "author": "Buddha",
+      "dayOfYear": 331
+    },
+    {
+      "id": 332,
+      "text": "An insincere and evil friend is more to be feared than a wild beast; a wild beast may wound your body, but an evil friend will wound your mind.",
+      "author": "Buddha",
+      "dayOfYear": 332
+    },
+    {
+      "id": 333,
+      "text": "Just as the river flows into the sea, so all good actions lead to Nirvana.",
+      "author": "Buddha",
+      "dayOfYear": 333
+    },
+    {
+      "id": 334,
+      "text": "Do not be led by others, make your own decision.",
+      "author": "Buddha",
+      "dayOfYear": 334
+    },
+    {
+      "id": 335,
+      "text": "Those who cling to perceptions and views wander long in the world.",
+      "author": "Buddha",
+      "dayOfYear": 335
+    },
+    {
+      "id": 336,
+      "text": "One moment can change a day, one day can change a life, one life can change the world.",
+      "author": "Buddha",
+      "dayOfYear": 336
+    },
+    {
+      "id": 337,
+      "text": "The whole secret of existence is to have no fear.",
+      "author": "Buddha",
+      "dayOfYear": 337
+    },
+    {
+      "id": 338,
+      "text": "The greatest evil is a lack of love and compassion.",
+      "author": "Buddha",
+      "dayOfYear": 338
+    },
+    {
+      "id": 339,
+      "text": "The wise ones who are intent on meditation, who delight in the peace of renunciation, such mindful ones, even the gods admire.",
+      "author": "Buddha",
+      "dayOfYear": 339
+    },
+    {
+      "id": 340,
+      "text": "Better than living a hundred years, not seeing the highest truth, is one day of life seeing the highest truth.",
+      "author": "Buddha",
+      "dayOfYear": 340
+    },
+    {
+      "id": 341,
+      "text": "Empty your mind, be formless, shapeless – like water.",
+      "author": "Buddha",
+      "dayOfYear": 341
+    },
+    {
+      "id": 342,
+      "text": "Live purely. Be quiet. Do your work with mastery. Like the moon, come out from behind the clouds! Shine.",
+      "author": "Buddha",
+      "dayOfYear": 342
+    },
+    {
+      "id": 343,
+      "text": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+      "author": "Buddha",
+      "dayOfYear": 343
+    },
+    {
+      "id": 344,
+      "text": "The gift of truth excels all other gifts.",
+      "author": "Buddha",
+      "dayOfYear": 344
+    },
+    {
+      "id": 345,
+      "text": "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
+      "author": "Buddha",
+      "dayOfYear": 345
+    },
+    {
+      "id": 346,
+      "text": "The root of suffering is attachment.",
+      "author": "Buddha",
+      "dayOfYear": 346
+    },
+    {
+      "id": 347,
+      "text": "Even death is not to be feared by one who has lived wisely.",
+      "author": "Buddha",
+      "dayOfYear": 347
+    },
+    {
+      "id": 348,
+      "text": "What you think, you become. What you feel, you attract. What you imagine, you create.",
+      "author": "Buddha",
+      "dayOfYear": 348
+    },
+    {
+      "id": 349,
+      "text": "Those who have failed to work toward the truth have missed the purpose of living.",
+      "author": "Buddha",
+      "dayOfYear": 349
+    },
+    {
+      "id": 350,
+      "text": "Your most precious possession is not your financial assets. Your most precious possession is your time.",
+      "author": "Buddha",
+      "dayOfYear": 350
+    },
+    {
+      "id": 351,
+      "text": "A dog is not considered a good dog because he is a good barker. A man is not considered a good man because he is a good talker.",
+      "author": "Buddha",
+      "dayOfYear": 351
+    },
+    {
+      "id": 352,
+      "text": "Purity or impurity depends on oneself; no one can purify another.",
+      "author": "Buddha",
+      "dayOfYear": 352
+    },
+    {
+      "id": 353,
+      "text": "The trouble is, you think you have time.",
+      "author": "Buddha",
+      "dayOfYear": 353
+    },
+    {
+      "id": 354,
+      "text": "If you truly loved yourself, you would never harm another.",
+      "author": "Buddha",
+      "dayOfYear": 354
+    },
+    {
+      "id": 355,
+      "text": "There is no fire like passion, no shark like hatred, no snare like folly, no torrent like greed.",
+      "author": "Buddha",
+      "dayOfYear": 355
+    },
+    {
+      "id": 356,
+      "text": "If you do not change direction, you may end up where you are heading.",
+      "author": "Buddha",
+      "dayOfYear": 356
+    },
+    {
+      "id": 357,
+      "text": "Everything is impermanent.",
+      "author": "Buddha",
+      "dayOfYear": 357
+    },
+    {
+      "id": 358,
+      "text": "Speak or act with an impure mind and trouble will follow you as the wheel follows the ox that draws the cart.",
+      "author": "Buddha",
+      "dayOfYear": 358
+    },
+    {
+      "id": 359,
+      "text": "Looking at a tree is looking at meditation.",
+      "author": "Buddha",
+      "dayOfYear": 359
+    },
+    {
+      "id": 360,
+      "text": "Know from experience that no pleasure is a good thing if it brings a later pain.",
+      "author": "Buddha",
+      "dayOfYear": 360
+    },
+    {
+      "id": 361,
+      "text": "To be attached to nothing, to want nothing, to love nothing.",
+      "author": "Buddha",
+      "dayOfYear": 361
+    },
+    {
+      "id": 362,
+      "text": "What is essential is to practice, not to know.",
+      "author": "Buddha",
+      "dayOfYear": 362
+    },
+    {
+      "id": 363,
+      "text": "Those who are free of resentful thoughts surely find peace.",
+      "author": "Buddha",
+      "dayOfYear": 363
+    },
+    {
+      "id": 364,
+      "text": "Happiness does not depend on what you have or who you are. It solely relies on how you think.",
+      "author": "Buddha",
+      "dayOfYear": 364
+    },
+    {
+      "id": 365,
+      "text": "Like a lotus flower, we too have the ability to rise from the mud, bloom out of the darkness and radiate into the world.",
+      "author": "Buddha",
+      "dayOfYear": 365
+    },
+    {
+      "id": 366,
+      "text": "If you want to keep your memories, you have to keep your mind.",
+      "author": "Buddha",
+      "dayOfYear": 366
+    },
+    {
+      "id": 367,
+      "text": "The greatest gift is the gift of peace.",
+      "author": "Buddha",
+      "dayOfYear": 367
+    },
+    {
+      "id": 368,
+      "text": "The end of suffering is the awakening to the truth.",
+      "author": "Buddha",
+      "dayOfYear": 368
+    },
+    {
+      "id": 369,
+      "text": "One day's practice is better than a thousand years of thinking.",
+      "author": "Buddha",
+      "dayOfYear": 369
+    },
+    {
+      "id": 370,
+      "text": "There is no path to happiness. Happiness is the path.",
+      "author": "Buddha",
+      "dayOfYear": 370
+    },
+    {
+      "id": 371,
+      "text": "The wise man is one who knows what he does not know.",
+      "author": "Buddha",
+      "dayOfYear": 371
+    },
+    {
+      "id": 372,
+      "text": "The tongue is a sharp knife that kills without drawing blood.",
+      "author": "Buddha",
+      "dayOfYear": 372
+    },
+    {
+      "id": 373,
+      "text": "Have compassion for all beings, rich and poor alike; each has their suffering. Some suffer too much, others too little.",
+      "author": "Buddha",
+      "dayOfYear": 373
+    },
+    {
+      "id": 374,
+      "text": "If you want to know your past, look into your present condition. If you want to know your future, look into your present actions.",
+      "author": "Buddha",
+      "dayOfYear": 374
     }
   ],
   "motivational": [
