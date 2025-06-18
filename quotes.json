@@ -2,297 +2,353 @@
   "buddhist": [
     {
       "id": 1,
-      "text": "Peace comes from within. Do not seek it without.",
+      "text": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with an evil thought, pain follows him, as the wheel follows the foot of the ox that draws the carriage.",
       "author": "Buddha",
-      "dayOfYear": 1
+      "dayOfYear": 1,
+      "explanation": "Our very being is shaped by our thoughts. Evil thoughts invariably lead to suffering. This pain follows like a cart's wheel follows the ox's hoof. It highlights the direct, inescapable consequence of negative thinking."
     },
     {
       "id": 2,
-      "text": "The mind is everything. What you think you become.",
+      "text": "All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with a pure thought, happiness follows him, like a shadow that never leaves him.",
       "author": "Buddha",
-      "dayOfYear": 2
+      "dayOfYear": 2,
+      "explanation": "Conversely, our existence is built upon and formed by our thoughts. Pure thoughts result in happiness. Happiness accompanies the individual like an ever-present shadow. This emphasizes the positive and enduring outcome of mental purity."
     },
     {
       "id": 3,
-      "text": "Three things cannot be long hidden: the sun, the moon, and the truth.",
+      "text": "\"He abused me, he beat me, he defeated me, he robbed me,\"--in those who harbour such thoughts hatred will never cease.",
       "author": "Buddha",
-      "dayOfYear": 3
+      "dayOfYear": 3,
+      "explanation": "When individuals dwell on grievances and injustices. Harboring such negative thoughts perpetuates animosity. Hatred will perpetually remain within them. This shows how nursing resentments sustains conflict."
     },
     {
       "id": 4,
-      "text": "Do not believe anything, no matter where you read it, or who said it, no matter if I have said it, unless it agrees with your own reason and your own common sense.",
+      "text": "\"He abused me, he beat me, he defeated me, he robbed me,\"--in those who do not harbour such thoughts hatred will cease.",
       "author": "Buddha",
-      "dayOfYear": 4
+      "dayOfYear": 4,
+      "explanation": "If one chooses not to dwell on past wrongs. By releasing thoughts of ill-treatment. Hatred will come to an end for them. This suggests that letting go of resentment leads to peace."
     },
     {
       "id": 5,
-      "text": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
+      "text": "For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
       "author": "Buddha",
-      "dayOfYear": 5
+      "dayOfYear": 5,
+      "explanation": "It is a fundamental principle that hatred cannot be overcome by more hatred. Instead, love is the sole means by which hatred ceases. This wisdom is presented as an enduring \"old rule\". Underlining its timeless and universal truth."
     },
     {
       "id": 6,
-      "text": "To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him.",
+      "text": "The world does not know that we must all come to an end here;--but those who know it, their quarrels cease at once.",
       "author": "Buddha",
-      "dayOfYear": 6
+      "dayOfYear": 6,
+      "explanation": "Most people are oblivious to the impermanence of life. However, those who comprehend that all existence here must end. For them, disputes and conflicts immediately cease. This understanding of mortality leads to the cessation of quarrels."
     },
     {
       "id": 7,
-      "text": "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
+      "text": "He who lives looking for pleasures only, his senses uncontrolled, immoderate in his food, idle, and weak, Mara (the tempter) will certainly overthrow him, as the wind throws down a weak tree.",
       "author": "Buddha",
-      "dayOfYear": 7
+      "dayOfYear": 7,
+      "explanation": "One who constantly seeks only pleasures, with uncontrolled senses. Being unrestrained in eating, lazy, and feeble, is vulnerable. Mara, the tempter, will easily defeat them. Like a weak tree toppled by the wind, they will be overthrown."
     },
     {
       "id": 8,
-      "text": "What we think, we become.",
+      "text": "He who lives without looking for pleasures, his senses well controlled, moderate in his food, faithful and strong, him Mara will certainly not overthrow, any more than the wind throws down a rocky mountain.",
       "author": "Buddha",
-      "dayOfYear": 8
+      "dayOfYear": 8,
+      "explanation": "Conversely, one who lives without seeking excessive pleasures. With well-controlled senses, moderate food, and inner strength. Mara will be unable to overcome such a person. They are like a rocky mountain, unmovable by wind, symbolizing steadfastness."
     },
     {
       "id": 9,
-      "text": "Understanding is the heartwood of the tree of life, and without it, all the leaves and branches are withered.",
+      "text": "He who wishes to put on the yellow dress without having cleansed himself from sin, who disregards temperance and truth, is unworthy of the yellow dress.",
       "author": "Buddha",
-      "dayOfYear": 9
+      "dayOfYear": 9,
+      "explanation": "A person desiring to wear the monk's yellow robe. Yet, they have not purified themselves from sin. If they neglect temperance and truth, they are unworthy. This signifies that outward symbols are meaningless without inner virtue."
     },
     {
       "id": 10,
-      "text": "The way is not in the sky. The way is in the heart.",
+      "text": "But he who has cleansed himself from sin, is well grounded in all virtues, and regards also temperance and truth, he is indeed worthy of the yellow dress.",
       "author": "Buddha",
-      "dayOfYear": 10
+      "dayOfYear": 10,
+      "explanation": "The truly deserving wearer of the yellow dress is one purified from sin. They are firmly established in all virtues. And genuinely upholds temperance and truth. This shows that inner transformation makes one truly worthy."
     },
     {
       "id": 11,
-      "text": "Teach this triple truth to all: A generous heart, kind speech, and a life of service and compassion are the things which renew humanity.",
+      "text": "They who imagine truth in untruth, and see untruth in truth, never arrive at truth, but follow vain desires.",
       "author": "Buddha",
-      "dayOfYear": 11
+      "dayOfYear": 11,
+      "explanation": "Individuals who perceive falsehood as truth and truth as untruth. Their understanding is fundamentally flawed. They will, therefore, never reach true understanding. Instead, they pursue empty and futile desires."
     },
     {
       "id": 12,
-      "text": "The root of suffering is attachment.",
+      "text": "They who know truth in truth, and untruth in untruth, arrive at truth, and follow true desires.",
       "author": "Buddha",
-      "dayOfYear": 12
+      "dayOfYear": 12,
+      "explanation": "Conversely, those who accurately discern truth from untruth. Possess a clear and precise perception. Such individuals will indeed attain truth. And their aspirations will align with what is genuine and beneficial."
     },
     {
       "id": 13,
-      "text": "All that we are is the result of what we have thought. The mind is everything. What we think we become.",
+      "text": "As rain breaks through an ill-thatched house, passion will break through an unreflecting mind.",
       "author": "Buddha",
-      "dayOfYear": 13
+      "dayOfYear": 13,
+      "explanation": "Just as rain easily penetrates a poorly constructed roof. Similarly, passion will readily permeate. An unreflecting mind, lacking mental defenses. This metaphor illustrates the mind's vulnerability to overwhelming emotions."
     },
     {
       "id": 14,
-      "text": "Pain is inevitable. Suffering is optional.",
+      "text": "As rain does not break through a well-thatched house, passion will not break through a well-reflecting mind.",
       "author": "Buddha",
-      "dayOfYear": 14
+      "dayOfYear": 14,
+      "explanation": "In contrast, a strongly and well-thatched house resists rain. Likewise, passion cannot penetrate. A well-reflecting mind, which is mindful and disciplined. This highlights the protection offered by inner control against desires."
     },
     {
       "id": 15,
-      "text": "Nothing is permanent. Everything changes.",
+      "text": "The evil-doer mourns in this world, and he mourns in the next; he mourns in both. He mourns and suffers when he sees the evil of his own work.",
       "author": "Buddha",
-      "dayOfYear": 15
+      "dayOfYear": 15,
+      "explanation": "An individual who performs evil deeds experiences sorrow in this life. They also suffer in their next existence, enduring grief in both realms. This mourning and suffering arise from witnessing the consequences. Of their own harmful actions."
     },
     {
       "id": 16,
-      "text": "Even death is not to be feared by one who has lived wisely.",
+      "text": "The virtuous man delights in this world, and he delights in the next; he delights in both. He delights and rejoices, when he sees the purity of his own work.",
       "author": "Buddha",
-      "dayOfYear": 16
+      "dayOfYear": 16,
+      "explanation": "In contrast, a virtuous person finds joy in both this world. And the next, experiencing delight in both. Their happiness stems from observing the purity. And goodness of their own deeds."
     },
     {
       "id": 17,
-      "text": "Your worst enemy cannot harm you as much as your own unguarded thoughts.",
+      "text": "The evil-doer suffers in this world, and he suffers in the next; he suffers in both. He suffers when he thinks of the evil he has done; he suffers more when going on the evil path.",
       "author": "Buddha",
-      "dayOfYear": 17
+      "dayOfYear": 17,
+      "explanation": "The evil-doer endures suffering in both present and future lives. Their distress arises from reflecting on past wrongdoings. Suffering intensifies as they persist in the evil path. This emphasizes the compounding nature of negative actions."
     },
     {
       "id": 18,
-      "text": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
+      "text": "The virtuous man is happy in this world, and he is happy in the next; he is happy in both. He is happy when he thinks of the good he has done; he is still more happy when going on the good path.",
       "author": "Buddha",
-      "dayOfYear": 18
+      "dayOfYear": 18,
+      "explanation": "A virtuous person finds happiness in this life and the next. Their joy comes from contemplating their good deeds. This happiness further increases as they continue on the good path. Illustrating the reinforcing positive cycle of virtuous conduct."
     },
     {
       "id": 19,
-      "text": "Holding onto anger is like drinking poison and expecting the other person to die.",
+      "text": "The thoughtless man, even if he can recite a large portion (of the law), but is not a doer of it, has no share in the priesthood, but is like a cowherd counting the cows of others.",
       "author": "Buddha",
-      "dayOfYear": 19
+      "dayOfYear": 19,
+      "explanation": "A thoughtless person, despite knowing much scripture. If they fail to practice what they learn, they gain no true spiritual share. They are likened to a cowherd merely tallying others' cattle. Indicating knowledge without action is spiritually barren."
     },
     {
       "id": 20,
-      "text": "The secret of health for both mind and body is not to mourn for the past, nor to worry about the future, but to live the present moment wisely and earnestly.",
+      "text": "The follower of the law, even if he can recite only a small portion (of the law), but, having forsaken passion and hatred and foolishness, possesses true knowledge and serenity of mind, he, caring for nothing in this world or that to come, has indeed a share in the priesthood.",
       "author": "Buddha",
-      "dayOfYear": 20
+      "dayOfYear": 20,
+      "explanation": "A true follower, even with limited scriptural knowledge. Has abandoned passion, hatred, and foolishness. Possessing true knowledge and mental serenity, free from worldly concerns. Such a person genuinely participates in the priesthood."
     },
     {
       "id": 21,
-      "text": "No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.",
+      "text": "Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already.",
       "author": "Buddha",
-      "dayOfYear": 21
+      "dayOfYear": 21,
+      "explanation": "Earnestness is the direct path to immortality, or Nirvana. Conversely, thoughtlessness leads to spiritual death. Those who are earnest truly live and do not die. While the thoughtless are metaphorically already dead."
     },
     {
       "id": 22,
-      "text": "Hatred does not cease by hatred, but only by love; this is the eternal rule.",
+      "text": "Those who are advanced in earnestness, having understood this clearly, delight in earnestness, and rejoice in the knowledge of the Ariyas (the elect).",
       "author": "Buddha",
-      "dayOfYear": 22
+      "dayOfYear": 22,
+      "explanation": "Individuals who have progressed significantly in earnestness. Having clearly grasped its importance, find joy in it. They also delight in the wisdom of the Ariyas, the elect. Describing the profound satisfaction from spiritual dedication."
     },
     {
       "id": 23,
-      "text": "In the end, only three things matter: how much you loved, how gently you lived, and how gracefully you let go of things not meant for you.",
+      "text": "These wise people, meditative, steady, always possessed of strong powers, attain to Nirvana, the highest happiness.",
       "author": "Buddha",
-      "dayOfYear": 23
+      "dayOfYear": 23,
+      "explanation": "Wise individuals are meditative, unwavering, and possess strong inner powers. Through these qualities, they are able to achieve Nirvana. Nirvana is unequivocally described as the highest form of happiness. This outlines the qualities leading to ultimate liberation."
     },
     {
       "id": 24,
-      "text": "A generous heart, kind speech, and a life of service and compassion are the things which renew humanity.",
+      "text": "If an earnest person has roused himself, if he is not forgetful, if his deeds are pure, if he acts with consideration, if he restrains himself, and lives according to law,--then his glory will increase.",
       "author": "Buddha",
-      "dayOfYear": 24
+      "dayOfYear": 24,
+      "explanation": "An earnest person who is awakened and remains mindful. Whose actions are pure, considerate, and self-controlled. And who lives in harmony with the law. Such a person will inevitably see their glory and reputation grow."
     },
     {
       "id": 25,
-      "text": "Kindness is the language which the deaf can hear and the blind can see.",
+      "text": "By rousing himself, by earnestness, by restraint and control, the wise man may make for himself an island which no flood can overwhelm.",
       "author": "Buddha",
-      "dayOfYear": 25
+      "dayOfYear": 25,
+      "explanation": "Through self-arousal, earnestness, and diligent self-control. A wise person can construct an unassailable inner refuge. This spiritual \"island\" remains secure against any overwhelming \"flood\". Symbolizing unshakeable mental stability amidst life's challenges."
     },
     {
       "id": 26,
-      "text": "May all beings be happy.",
+      "text": "Fools follow after vanity, men of evil wisdom. The wise man keeps earnestness as his best jewel.",
       "author": "Buddha",
-      "dayOfYear": 26
+      "dayOfYear": 26,
+      "explanation": "Fools pursue empty vanity and possess misguided understanding. In sharp contrast, the wise individual treasures earnestness. They consider earnestness to be their most valuable possession. This highlights the fundamental difference in values between the foolish and the wise."
     },
     {
       "id": 27,
-      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "text": "Follow not after vanity, nor after the enjoyment of love and lust! He who is earnest and meditative, obtains ample joy.",
       "author": "Buddha",
-      "dayOfYear": 27
+      "dayOfYear": 27,
+      "explanation": "One should avoid chasing vanity or indulging in sensual desires. Instead, those who are earnest and devoted to meditation. Will attain abundant joy and profound contentment. This encourages spiritual focus over fleeting physical pleasures."
     },
     {
       "id": 28,
-      "text": "If you light a lamp for someone else, it will also brighten your own path.",
+      "text": "When the learned man drives away vanity by earnestness, he, the wise, climbing the terraced heights of wisdom, looks down upon the fools, serene he looks upon the toiling crowd, as one that stands on a mountain looks down upon them that stand upon the plain.",
       "author": "Buddha",
-      "dayOfYear": 28
+      "dayOfYear": 28,
+      "explanation": "A learned person, through earnestness, sheds vanity. This wise individual ascends to the pinnacle of wisdom. From this lofty vantage, they serenely observe the struggling masses. Like a mountain-dweller viewing those on the plain, signifying superior insight."
     },
     {
       "id": 29,
-      "text": "Radiate boundless love towards the entire world—above, below, and across—unhindered, without ill will, without enmity.",
+      "text": "Earnest among the thoughtless, awake among the sleepers, the wise man advances like a racer, leaving behind the hack.",
       "author": "Buddha",
-      "dayOfYear": 29
+      "dayOfYear": 29,
+      "explanation": "The wise person is earnest amidst the heedless. They remain awakened while others are asleep in ignorance. Such an individual progresses rapidly, like a swift racer. Leaving behind the slow or uninspired, emphasizing their advancement."
     },
     {
       "id": 30,
-      "text": "Just as a candle cannot burn without fire, men cannot exist without a spiritual life.",
+      "text": "By earnestness did Maghavan (Indra) rise to the lordship of the gods. People praise earnestness; thoughtlessness is always blamed.",
       "author": "Buddha",
-      "dayOfYear": 30
+      "dayOfYear": 30,
+      "explanation": "Maghavan (Indra) achieved his divine leadership through earnestness. Earnestness is consistently praised by people. While thoughtlessness always incurs blame. This illustrates earnestness as a highly lauded quality leading to elevated status."
     },
     {
       "id": 31,
-      "text": "An ungrateful mind is a monster, which devours that by which it is nourished.",
+      "text": "A Bhikshu (mendicant) who delights in earnestness, who looks with fear on thoughtlessness, moves about like fire, burning all his fetters, small or large.",
       "author": "Buddha",
-      "dayOfYear": 31
+      "dayOfYear": 31,
+      "explanation": "A mendicant who finds joy in earnestness and fears thoughtlessness. They advance with the intensity of fire. Burning away all their attachments, both great and small. Leading to complete liberation from bonds."
     },
     {
       "id": 32,
-      "text": "To conquer oneself is a greater task than conquering others.",
+      "text": "A Bhikshu (mendicant) who delights in reflection, who looks with fear on thoughtlessness, cannot fall away (from his perfect state)--he is close upon Nirvana.",
       "author": "Buddha",
-      "dayOfYear": 32
+      "dayOfYear": 32,
+      "explanation": "A mendicant who enjoys reflection and is wary of thoughtlessness. Such a person remains steadfast in their perfected state. They are incredibly near to attaining Nirvana. Highlighting the path to liberation through mindful contemplation."
     },
     {
       "id": 33,
-      "text": "The only real failure in life is not to be true to the best one knows.",
+      "text": "As a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to hold back.",
       "author": "Buddha",
-      "dayOfYear": 33
+      "dayOfYear": 33,
+      "explanation": "Just as an arrow-maker straightens a crooked arrow. A wise person similarly disciplines their mind. Our thoughts are naturally trembling, unsteady, and hard to control. This emphasizes the constant effort required for mental mastery."
     },
     {
       "id": 34,
-      "text": "Every morning we are born again. What we do today is what matters most.",
+      "text": "As a fish taken from his watery home and thrown on dry ground, our thought trembles all over in order to escape the dominion of Mara (the tempter).",
       "author": "Buddha",
-      "dayOfYear": 34
+      "dayOfYear": 34,
+      "explanation": "Our thoughts, in their yearning for freedom, are like a fish out of water. They struggle intensely, trembling to escape. This struggle is against the control of Mara, the tempter. Illustrating the mind's deep urge to break free from negative influences."
     },
     {
       "id": 35,
-      "text": "Give up the past, give up the future, give up the present. Cross over to the farther shore of existence. With mind wholly liberated, you will not again return to birth and decay.",
+      "text": "It is good to tame the mind, which is difficult to hold in and flighty, rushing wherever it listeth; a tamed mind brings happiness.",
       "author": "Buddha",
-      "dayOfYear": 35
+      "dayOfYear": 35,
+      "explanation": "It is profoundly beneficial to tame the mind. The mind is inherently difficult to restrain, restless, and prone to wander. However, a disciplined and tamed mind brings true happiness. This underscores the great reward of mental self-control."
     },
     {
       "id": 36,
-      "text": "Your life is your message to the world. Make sure it's inspiring.",
+      "text": "Let the wise man guard his thoughts, for they are difficult to perceive, very artful, and they rush wherever they list: thoughts well guarded bring happiness.",
       "author": "Buddha",
-      "dayOfYear": 36
+      "dayOfYear": 36,
+      "explanation": "A wise person should diligently protect their thoughts. Thoughts are subtle, cunning, and tend to roam freely. Nonetheless, well-guarded thoughts lead to happiness. Reinforcing the importance of constant vigilance over one's mind."
     },
     {
       "id": 37,
-      "text": "Silence the angry man with love. Silence the ill-willed man with kindness. Silence the miser with generosity. Silence the liar with truth.",
+      "text": "Those who bridle their mind which travels far, moves about alone, is without a body, and hides in the chamber (of the heart), will be free from the bonds of Mara (the tempter).",
       "author": "Buddha",
-      "dayOfYear": 37
+      "dayOfYear": 37,
+      "explanation": "Those who can control their far-ranging, solitary, bodiless mind. Even though it is hidden deep within the heart. By restraining this mind, they become free from Mara's bonds. Highlighting liberation achieved through deep mental mastery."
     },
     {
       "id": 38,
-      "text": "The wise man in the storm prays to God, not for safety from danger, but for deliverance from fear. It is the storm within which endangers us, not the storm without.",
+      "text": "If a man's thoughts are unsteady, if he does not know the true law, if his peace of mind is troubled, his knowledge will never be perfect.",
       "author": "Buddha",
-      "dayOfYear": 38
+      "dayOfYear": 38,
+      "explanation": "If a person's thoughts are unstable and they lack understanding of the true law. And if their inner peace is disturbed. Then their knowledge will never reach perfection. This indicates that mental stability is crucial for true wisdom."
     },
     {
       "id": 39,
-      "text": "There are only two mistakes one can make along the road to truth; not going all the way, and not starting.",
+      "text": "If a man's thoughts are not dissipated, if his mind is not perplexed, if he has ceased to think of good or evil, then there is no fear for him while he is watchful.",
       "author": "Buddha",
-      "dayOfYear": 39
+      "dayOfYear": 39,
+      "explanation": "When a person's thoughts are focused and their mind is clear. And they have transcended dualistic thinking of good or evil. As long as they remain vigilant, they will experience no fear. This describes a state of profound inner peace and fearlessness."
     },
     {
       "id": 40,
-      "text": "Live in joy, in love, even among those who hate. Live in joy, in health, even among those who are afflicted. Live in joy, in peace, even among those who are troubled. Look within, awaken to your true nature.",
+      "text": "Knowing that this body is (fragile) like a jar, and making this thought firm like a fortress, one should attack Mara (the tempter) with the weapon of knowledge, one should watch him when conquered, and should never rest.",
       "author": "Buddha",
-      "dayOfYear": 40
+      "dayOfYear": 40,
+      "explanation": "Recognizing the body's fragility, like a jar, and holding this thought firmly. One should combat Mara using knowledge as a weapon. Even after defeating the tempter, one must remain vigilant. And should never cease in their spiritual efforts."
     },
     {
       "id": 41,
-      "text": "A dog is not considered a good dog because he is a good barker. A man is not considered a good man because he is a good talker.",
+      "text": "Before long, alas! this body will lie on the earth, despised, without understanding, like a useless log.",
       "author": "Buddha",
-      "dayOfYear": 41
+      "dayOfYear": 41,
+      "explanation": "The sources reflect on the inevitable impermanence of the body. Soon, this physical form will become lifeless. It will lie discarded on the earth, despised and devoid of consciousness. Like nothing more than a useless, fallen log."
     },
     {
       "id": 42,
-      "text": "The trouble is, you think you have time.",
+      "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly-directed mind will do us greater mischief.",
       "author": "Buddha",
-      "dayOfYear": 42
+      "dayOfYear": 42,
+      "explanation": "The harm inflicted by enemies upon each other. Is far less damaging than the mischief caused by one's own misguided mind. This highlights that internal negativity is more destructive. Warning against the self-inflicted harm of uncontrolled thoughts."
     },
     {
       "id": 43,
-      "text": "If you truly loved yourself, you would never harm another.",
+      "text": "Not a mother, not a father will do so much, nor any other relative; a well-directed mind will do us greater service.",
       "author": "Buddha",
-      "dayOfYear": 43
+      "dayOfYear": 43,
+      "explanation": "The beneficial actions of a mother, father, or any relative. However great, are surpassed in their service. By the profound and positive impact of a well-directed mind. This emphasizes the unparalleled value of mental discipline and virtue."
     },
     {
       "id": 44,
-      "text": "The past is already gone, the future is not yet here. There is only one moment for you to live, and that is the present moment.",
+      "text": "Who shall overcome this earth, and the world of Yama (the lord of the departed), and the world of the gods? Who shall find out the plainly shown path of virtue, as a clever man finds out the (right) flower?",
       "author": "Buddha",
-      "dayOfYear": 44
+      "dayOfYear": 44,
+      "explanation": "The verse poses questions regarding who can conquer this world. And also the realms of Yama (death) and the gods. It asks who can discover the clear path of virtue. Comparing it to a clever person finding the correct flower."
     },
     {
       "id": 45,
-      "text": "However many holy words you read, however many you speak, what good will they do you if you do not act on them?",
+      "text": "The disciple will overcome the earth, and the world of Yama, and the world of the gods. The disciple will find out the plainly shown path of virtue, as a clever man finds out the (right) flower.",
       "author": "Buddha",
-      "dayOfYear": 45
+      "dayOfYear": 45,
+      "explanation": "The disciple is the one who will conquer the earth. They will also overcome the worlds of Yama and the gods. It is the disciple who will discover the plainly shown path of virtue. Much like a clever person discerning the correct flower."
     },
     {
       "id": 46,
-      "text": "Conquer the angry one by love. Conquer the evil one by good. Conquer the stingy one by giving. Conquer the liar by truth.",
+      "text": "He who knows that this body is like froth, and has learnt that it is as unsubstantial as a mirage, will break the flower-pointed arrow of Mara, and never see the king of death.",
       "author": "Buddha",
-      "dayOfYear": 46
+      "dayOfYear": 46,
+      "explanation": "One who understands the body's nature as froth or a mirage. Such a person will shatter Mara's deceptive arrows. They will escape the dominion of the \"king of death\". This emphasizes liberation through realizing the impermanence and unreality of phenomena."
     },
     {
       "id": 47,
-      "text": "Work out your own salvation. Do not depend on others.",
+      "text": "Death carries off a man who is gathering flowers and whose mind is distracted, as a flood carries off a sleeping village.",
       "author": "Buddha",
-      "dayOfYear": 47
+      "dayOfYear": 47,
+      "explanation": "Death claims individuals who are preoccupied with fleeting pleasures (\"gathering flowers\"). And whose minds are distracted from truth. Like a sudden, overwhelming flood sweeping away a slumbering village. This warns against heedlessness and attachment to ephemeral enjoyments."
     },
     {
       "id": 48,
-      "text": "Do not be led by others, make your own decision.",
+      "text": "Death subdues a man who is gathering flowers, and whose mind is distracted, before he is satiated in his pleasures.",
       "author": "Buddha",
-      "dayOfYear": 48
+      "dayOfYear": 48,
+      "explanation": "Death overtakes individuals who are still absorbed in seeking pleasures. And whose minds are uncollected. This occurs before they have fully satisfied their desires. It reiterates the unexpected and often premature arrival of death for the pleasure-seeking."
     },
     {
       "id": 49,
-      "text": "Purity or impurity depends on oneself; no one can purify another.",
+      "text": "As the bee collects nectar and departs without injuring the flower, or its colour or scent, so let a sage dwell in his village.",
       "author": "Buddha",
-      "dayOfYear": 49
+      "dayOfYear": 49,
+      "explanation": "A bee gathers nectar from a flower without causing any harm. It leaves the flower's color and scent undisturbed. Similarly, a sage should reside within their community. Interacting with the world without causing damage or selfishly exploiting it."
+    },
+    {
+      "id": 50,
+      "text": "Not the perversities of others, not their sins of commission or omission, but his own misdeeds and negligences should a sage take notice of.",
+      "author": "Buddha",
+      "dayOfYear": 50,
+      "explanation": "A true sage should not concern themselves with the faults of others. Instead, their focus must be directed inwards. A sage should diligently observe and rectify their own misdeeds. Emphasizing self-reflection and personal accountability over external criticism."
     },
     {
       "id": 50,
@@ -6930,3 +6986,4 @@
     }
   ]
 }
+
